@@ -64,7 +64,7 @@ python -m spacy download en_core_web_sm
 
 ### 4. Launch the Streamlit app
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ---
